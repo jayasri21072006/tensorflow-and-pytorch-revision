@@ -1,4 +1,4 @@
-# TensorFlow & PyTorch Revision 🧠
+# TensorFlow & PyTorch fundamentals 🧠
 
 A personal collection of notes, notebooks, and practice exercises for revising and reinforcing the fundamentals of **TensorFlow** and **PyTorch** — two of the most widely used deep learning frameworks.
 
